@@ -1,6 +1,11 @@
+import Test from "./test";
+
 function App() {
   return (
-    <h1>Hello react!</h1>
+    <>
+      <Test />
+      <h1>Hello react!</h1>
+    </>
   );
 }
 
